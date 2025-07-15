@@ -9,7 +9,7 @@ class Dog extends Animal {
         System.out.println("Dog barks");
     }
 }
-public class Abstractionex {
+public class Abstractionexample1 {
     public static void main(String[] args) {
         Animal dog = new Dog();  
         dog.makeSound();         
